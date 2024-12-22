@@ -1,0 +1,13 @@
+Castillos:
+Tsuruga
+Higashiyama
+Matsuyama
+
+Contenido:
+Encabezado v
+Navegacion v
+Seccion principal
+Articulos
+Barra Lateral
+Pie de Pagina
+
